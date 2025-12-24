@@ -1,0 +1,6 @@
+Airport_Code,Wind_Speed_Kt,Wind_Dir_Deg,Injury_Severity
+KADS,15,180,Non-Fatal
+KADS,18,170,Non-Fatal
+KADS,22,190,Fatal
+KSFO,25,270,Non-Fatal
+KJFK,12,310,Incident
